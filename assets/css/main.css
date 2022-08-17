@@ -1756,6 +1756,11 @@ blockquote {
         padding: 230px 0 0 20px;
     }
 
+    #footer .row > .col-12-textarea,
+    #footer .row > .col-12-submit {
+        padding-top: 20px;
+    }
+
     .row.gtr-uniform {
         margin-top: -20px;
     }
