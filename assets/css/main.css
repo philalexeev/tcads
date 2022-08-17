@@ -3032,6 +3032,10 @@ input[type="button"].small,
     margin: 3em 0 0 0;
 }
 
+#footer .footer-address {
+    margin-top: 20px;
+}
+
 #footer .copyright li {
     border-left: dotted 1px;
     display: inline-block;
